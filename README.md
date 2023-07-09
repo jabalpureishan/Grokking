@@ -15,15 +15,15 @@ https://hackernoon.com/14-patterns-to-ace-any-coding-interview-question-c5bb3357
 
 ## Pattern: Sliding Window
 
-- [ ] https://leetcode.com/problems/maximum-subarray/  (Blind)
-- [ ] https://leetcode.com/problems/minimum-size-subarray-sum/
+- [X] https://leetcode.com/problems/maximum-subarray/  (Blind)
+- [X] https://leetcode.com/problems/minimum-size-subarray-sum/
 - [ ] https://leetcode.com/problems/longest-substring-with-at-most-k-distinct-characters/
 - [ ] https://leetcode.com/problems/fruit-into-baskets/
-- [ ] https://leetcode.com/problems/longest-substring-without-repeating-characters/ (Blind)
-- [ ] https://leetcode.com/problems/longest-repeating-character-replacement/ (Blind)
-- [ ] https://leetcode.com/problems/max-consecutive-ones-iii/
-- [ ] https://leetcode.com/problems/permutation-in-string/
-- [ ] https://leetcode.com/problems/find-all-anagrams-in-a-string/
+- [X] https://leetcode.com/problems/longest-substring-without-repeating-characters/ (Blind)
+- [X] https://leetcode.com/problems/longest-repeating-character-replacement/ (Blind)
+- [X] https://leetcode.com/problems/max-consecutive-ones-iii/
+- [X] https://leetcode.com/problems/permutation-in-string/
+- [X] https://leetcode.com/problems/find-all-anagrams-in-a-string/
 - [ ] https://leetcode.com/problems/minimum-window-substring/ (Blind)
 - [ ] https://leetcode.com/problems/substring-with-concatenation-of-all-words/
 
@@ -37,13 +37,13 @@ https://hackernoon.com/14-patterns-to-ace-any-coding-interview-question-c5bb3357
 - [ ] https://leetcode.com/problems/detect-cycles-in-2d-grid/
 ## Pattern: Two Pointers
 - [ ] https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/
-- [ ] https://leetcode.com/problems/remove-duplicates-from-sorted-array/
-- [ ] https://leetcode.com/problems/squares-of-a-sorted-array/
-- [ ] https://leetcode.com/problems/3sum/ (Blind)
+- [X] https://leetcode.com/problems/remove-duplicates-from-sorted-array/
+- [X] https://leetcode.com/problems/squares-of-a-sorted-array/
+- [X] https://leetcode.com/problems/3sum/ (Blind)
 - [ ] https://leetcode.com/problems/3sum-closest/
 - [ ] https://leetcode.com/problems/3sum-smaller/
-- [ ] https://leetcode.com/problems/subarray-product-less-than-k/
-- [ ] https://leetcode.com/problems/sort-colors/
+- [X] https://leetcode.com/problems/subarray-product-less-than-k/
+- [X] https://leetcode.com/problems/sort-colors/
 - [ ] https://leetcode.com/problems/4sum/
 - [ ] https://leetcode.com/problems/backspace-string-compare/
 - [ ] https://leetcode.com/problems/shortest-unsorted-continuous-subarray/
@@ -58,8 +58,8 @@ https://hackernoon.com/14-patterns-to-ace-any-coding-interview-question-c5bb3357
 - [ ] https://leetcode.com/problems/circular-array-loop/
 
 ## Pattern: Merge Intervals
-- [ ] https://leetcode.com/problems/merge-intervals/ (Blind)
-- [ ] https://leetcode.com/problems/insert-interval/ (Blind)
+- [X] https://leetcode.com/problems/merge-intervals/ (Blind)
+- [X] https://leetcode.com/problems/insert-interval/ (Blind)
 - [ ] https://leetcode.com/problems/interval-list-intersections/
 - [ ] https://leetcode.com/problems/meeting-rooms/ (Blind and Premium)
 - [ ] https://leetcode.com/problems/meeting-rooms-ii/ (Blind and Premium)
